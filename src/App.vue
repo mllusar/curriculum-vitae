@@ -1,5 +1,3 @@
-export {};
-
 <script lang="ts">
 </script>
 
@@ -7,3 +5,5 @@ export {};
   <h1>Je suis dans le composant App</h1>
   <router-view />
 </template>
+
+export {};
