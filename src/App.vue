@@ -1,6 +1,5 @@
-export {}
-
 <script lang="ts">
+  export {}
 </script>
 
 <template>
